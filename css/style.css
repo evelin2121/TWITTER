@@ -1,0 +1,27 @@
+.tarea{padding-top: 60px;
+    }
+a{
+	color: black; 
+    border: 1px solid;
+    padding: 10px; 
+    background-color: blue; 
+}
+
+.texto{
+	padding-left: 200px;
+	padding-top: 10px;
+	font-size: 2em;
+}   
+
+.form-control{
+	padding: 50px;
+}
+.iconos {
+  font-size: 50px;
+  position: relative;
+  left: 50px;
+  }
+  
+.tachado {
+  text-decoration: line-through;
+}
